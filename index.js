@@ -14,7 +14,7 @@ class Menu extends Component {
     return (
       <NavBar brand="WhiteBoard">
         <NavBar.Link to="/students">Students</NavBar.Link>
-        <NavBar.Link to="/emner">Emner</NavBar.Link>
+        <NavBar.Link to="/emner">Subjects</NavBar.Link>
       </NavBar>
     );
   }
